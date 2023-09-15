@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
     <customMetadataTypeRecord>imbus__UWMAuthSettingsMetadata__mdt.imbus__UWM_InsightsOAuth</customMetadataTypeRecord>
-    <executionUser>test-7xigdioaz76k@example.com</executionUser>
     <friendlyName>UWM_InsightsOAuth</friendlyName>
     <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
     <plugin>UWM_Insights_AuthProvider</plugin>
