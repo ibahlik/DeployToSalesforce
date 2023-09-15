@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
     <customMetadataTypeRecord>imbus__UWMAuthSettingsMetadata__mdt.imbus__UWM_ConditionsAuth</customMetadataTypeRecord>
+    <consumerKey>Test</consumerKey>
+    <consumerSecret>Test</consumerSecret>
     <friendlyName>UWM_ConditionsAuth</friendlyName>
     <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
     <plugin>UWMConditions_AuthProvider</plugin>
