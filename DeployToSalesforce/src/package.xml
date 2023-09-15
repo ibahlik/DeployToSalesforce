@@ -4,5 +4,17 @@
         <members>*</members>
         <name>StandardValueSet</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>LeadConvertSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AuthProvider</name>
+    </types>
     <version>58.0</version>
 </Package>
