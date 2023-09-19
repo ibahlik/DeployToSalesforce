@@ -16,5 +16,13 @@
         <members>*</members>
         <name>AuthProvider</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSetGroup</name>
+    </types>
     <version>58.0</version>
 </Package>
