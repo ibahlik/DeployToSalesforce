@@ -12,5 +12,4 @@
     <permissionSets>imbus__OptOutPermissions</permissionSets>
     <permissionSets>imbus__UWMPermissions</permissionSets>
     <permissionSets>RunFlows</permissionSets>
-    <status>Updated</status>
 </PermissionSetGroup>
