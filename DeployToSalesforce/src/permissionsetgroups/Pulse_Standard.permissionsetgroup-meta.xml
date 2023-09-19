@@ -2,14 +2,5 @@
 <PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
     <hasActivationRequired>false</hasActivationRequired>
     <label>Pulse Standard</label>
-    <permissionSets>imbus__Applications</permissionSets>
-    <permissionSets>imbus__Condition_Files_Permissions</permissionSets>
-    <permissionSets>imbus__DripCampaignPermissions</permissionSets>
-    <permissionSets>imbus__EnhancedNotesPermissions</permissionSets>
-    <permissionSets>imbus__Lead_Fields_Permissions</permissionSets>
-    <permissionSets>imbus__MilestonesPermissions</permissionSets>
-    <permissionSets>imbus__Mortgage_Calculator_Fields_Permissions</permissionSets>
-    <permissionSets>imbus__OptOutPermissions</permissionSets>
-    <permissionSets>imbus__UWMPermissions</permissionSets>
     <permissionSets>RunFlows</permissionSets>
 </PermissionSetGroup>
